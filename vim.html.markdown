@@ -91,6 +91,9 @@ your workspace!
 `:help` can also be used without an option. This will bring up a default help dialog
 that aims to make getting started with vim more approachable!
 
+### Vimtutor:
+`vimtutor` is a very basic, clean, and excellent application that teaches you how to use `Vim`. It’s the best place to get started with vim. It comes installed when you install the vim package. You should be able to just run "vimtutor" on the command line to open this tutor. It will guide you through all the major features in `vim`.
+
 ## Modes:
 
 Vim is based on the concept on **modes**.
